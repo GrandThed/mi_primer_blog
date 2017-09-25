@@ -1,0 +1,12 @@
+def comprar(cosas_para_comprar):
+    print("-" + cosas_para_comprar)
+
+print("Lista de compras:\n")
+lista_de_compras = ["Papas", "Leche", "Avena", "Cereal", "Agua"]
+for cosas_para_comprar in lista_de_compras[0:-1]:
+    comprar(cosas_para_comprar)
+añadir_item = input("¿Quieres añadir algo mas?")
+if añadir_item = "Si" or "dale" or "Claro"
+        print("lola")
+    else:
+        print("oky, chau")
